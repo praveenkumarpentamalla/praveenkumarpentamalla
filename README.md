@@ -1,8 +1,3 @@
-# `README.md`
-
-Production-ready GitHub profile README for **PRAVEEN KUMAR PENTAMALLA**, designed around the supplied neon pink/purple DevOps dashboard reference.
-
-````markdown
 <div align="center">
 
 <!-- =========================================================
@@ -537,5 +532,3 @@ The README intentionally references the future local assets:
 ./stats.svg
 ./trophies.svg
 ```
-
-No SVG is generated in this step, as requested. Wait for **`NEXT`** for `banner.svg`.
