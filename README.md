@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # PRAVEEN KUMAR PENTAMALLA
@@ -807,4 +806,4 @@ August 2017 – October 2019
 <sub>DevOps · AWS Cloud · MLOps · Kubernetes · Terraform · CI/CD · DevSecOps · Observability</sub>
 
 </div>
-```
+
